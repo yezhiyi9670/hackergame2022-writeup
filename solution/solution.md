@@ -11,33 +11,33 @@ Hackergame 2022 个人题解
 
 我的主操作系统是 Windows。使用 Linux 时，一般使用 Ubuntu WSL，有需要时使用 Ubuntu 虚拟机。
 
-|题号|标签|鉴定|题目|分值|完成于|
-|-|-|-|-|-|-|-|
-|1|web|trivial|签到|50/50|10-22A|
-|5|web|browser|Xcaptcha|150/150|10-22A|
-|4|general|code|HeiLang|100/100|10-22A|
-|3|general|capture|家目录里的秘密|250/250|10-22A, 10-23A|
-|6|general|<font color=gray>trivial</font>|旅行照片|100/<font color=lightgray>250</font>|<font color=gray>10-22A</font>|
-|2|general|crack|猫咪问答喵|300/300|10-22A, 10-23A|
-|13|web|browser|微积分计算小练习|200/200|10-22A|
-|8|web|<font color=gray>prof</font>|LaTeX 机器人|150/<font color=lightgray>350</font>|<font color=gray>10-22A</font>|
-|12|binary|reverse|Flag 自动机|200/200|10-22N|
-|9|web|browser|Flag 的痕迹|150/150|10-22N|
-|11|general|prof|线路板|150/150|10-22N|
-|20|general|code|光与影|250/250|10-22N|
-|7|general|code|猜数字|150/150|10-25M|
-|15|math|crypto|蒙特卡罗轮盘赌|200/200|10-25M|
-|30|math|<font color=gray>brute</font>|企鹅拼盘|250/<font color=lightgray>600</font>|<font color=gray>10-25M</font>|
-|22|web|backend|你先别急|300/300|10-25A|
-|14|binary|linux|杯窗鹅影|400/400|10-26M, 10-26A|
-|17|math|<font color=gray>brute</font>|惜字如金|200/<font color=lightgray>450</font>|<font color=gray>10-26A</font>|
-|24|binary|<font color=gray>prof</font>|片上系统|200/<font color=lightgray>500</font>|<font color=gray>10-26A</font>|
-|~~32~~|binary|<font color=gray>reverse</font>|~~火眼金睛的小 E~~|150/<font color=lightgray>700</font>|<font color=gray>10-27A</font>|
-|10|general|<font color=gray>judgehack</font>|安全的在线评测|150/<font color=lightgray>400</font>|<font color=gray>10-27N</font>|
-|26|binary|linux|看不见的彼方|300/300|10-28M|
-|~~27~~|math|prof|~~量子藏宝图~~|300/300|10-28N|
-|~~19~~|math|<font color=gray>crypto</font>|~~置换魔群~~|200/<font color=lightgray>700</font>|<font color=gray>10-28N</font>|
-|\*| | | |4850/<font color=lightgray>7300</font>|10-28N|
+| 题号   | 标签    | 鉴定                              | 题目               | 分值                                   | 完成于                         |
+| ------ | ------- | --------------------------------- | ------------------ | -------------------------------------- | ------------------------------ |  |
+| 1      | web     | trivial                           | 签到               | 50/50                                  | 10-22A                         |
+| 5      | web     | browser                           | Xcaptcha           | 150/150                                | 10-22A                         |
+| 4      | general | code                              | HeiLang            | 100/100                                | 10-22A                         |
+| 3      | general | capture                           | 家目录里的秘密     | 250/250                                | 10-22A, 10-23A                 |
+| 6      | general | <font color=gray>trivial</font>   | 旅行照片           | 100/<font color=lightgray>250</font>   | <font color=gray>10-22A</font> |
+| 2      | general | crack                             | 猫咪问答喵         | 300/300                                | 10-22A, 10-23A                 |
+| 13     | web     | browser                           | 微积分计算小练习   | 200/200                                | 10-22A                         |
+| 8      | web     | <font color=gray>prof</font>      | LaTeX 机器人       | 150/<font color=lightgray>350</font>   | <font color=gray>10-22A</font> |
+| 12     | binary  | reverse                           | Flag 自动机        | 200/200                                | 10-22N                         |
+| 9      | web     | browser                           | Flag 的痕迹        | 150/150                                | 10-22N                         |
+| 11     | general | prof                              | 线路板             | 150/150                                | 10-22N                         |
+| 20     | general | code                              | 光与影             | 250/250                                | 10-22N                         |
+| 7      | general | code                              | 猜数字             | 150/150                                | 10-25M                         |
+| 15     | math    | crypto                            | 蒙特卡罗轮盘赌     | 200/200                                | 10-25M                         |
+| 30     | math    | <font color=gray>brute</font>     | 企鹅拼盘           | 250/<font color=lightgray>600</font>   | <font color=gray>10-25M</font> |
+| 22     | web     | backend                           | 你先别急           | 300/300                                | 10-25A                         |
+| 14     | binary  | linux                             | 杯窗鹅影           | 400/400                                | 10-26M, 10-26A                 |
+| 17     | math    | <font color=gray>brute</font>     | 惜字如金           | 200/<font color=lightgray>450</font>   | <font color=gray>10-26A</font> |
+| 24     | binary  | <font color=gray>prof</font>      | 片上系统           | 200/<font color=lightgray>500</font>   | <font color=gray>10-26A</font> |
+| ~~32~~ | binary  | <font color=gray>reverse</font>   | ~~火眼金睛的小 E~~ | 150/<font color=lightgray>700</font>   | <font color=gray>10-27A</font> |
+| 10     | general | <font color=gray>judgehack</font> | 安全的在线评测     | 150/<font color=lightgray>400</font>   | <font color=gray>10-27N</font> |
+| 26     | binary  | linux                             | 看不见的彼方       | 300/300                                | 10-28M                         |
+| ~~27~~ | math    | prof                              | ~~量子藏宝图~~     | 300/300                                | 10-28N                         |
+| ~~19~~ | math    | <font color=gray>crypto</font>    | ~~置换魔群~~       | 200/<font color=lightgray>700</font>   | <font color=gray>10-28N</font> |
+| \*     |         |                                   |                    | 4850/<font color=lightgray>7300</font> | 10-28N                         |
 
 题解中可能包含“我们”。这是习惯说法，并不是说“我们”有一个团队在一起做题。此文件在比赛结束前并未公开。题解中的 flag 仅为示例，请注意实际情况下部分题目的 flag 与选手 token 有关。
 
