@@ -8,6 +8,8 @@
 
 [👉 读 Markdown](./solution/solution.md)
 
+[👉 读 Markdown 纯享版（删除了题目内容和题意解释）](./solution/solution-pure.md)
+
 [👉 读 PDF](./solution/solution.pdf)
 
 ## 包含题目
